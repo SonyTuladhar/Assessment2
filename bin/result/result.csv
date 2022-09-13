@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1663046015160,3226,HTTP Request,200,OK,Thread Group 1-1,text,true,,95374,170,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,2689,0,2114
+1663046018698,364,HTTP Request,401,Unauthorized,Thread Group 1-1,text,false,,411,223,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users?limit=50&offset=0&sortField=u.userName&sortOrder=ASC,364,0,0
